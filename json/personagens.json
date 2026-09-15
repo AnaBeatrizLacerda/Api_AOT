@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "nome": "Eren Yeager",
+    "esquadrao": 19,
+    "e_tita_mudante": true,
+    "status": "desconhecido"
+  },
+  {
+    "id": 2,
+    "nome": "Mikasa Ackerman",
+    "esquadrao": 19,
+    "e_tita_mudante": false,
+    "status": "vivo"
+  },
+  {
+    "id": 3,
+    "nome": "Armin Arlert",
+    "esquadrao": 19,
+    "e_tita_mudante": true,
+    "status": "vivo"
+  },
+  {
+    "id": 4,
+    "nome": "Levi Ackerman",
+    "esquadrao": 4,
+    "e_tita_mudante": false,
+    "status": "vivo"
+  },
+  {
+    "id": 5,
+    "nome": "Erwin Smith",
+    "esquadrao": 1,
+    "e_tita_mudante": false,
+    "status": "morto"
+  },
+  {
+    "id": 6,
+    "nome": "Hange Zoe",
+    "esquadrao": 6,
+    "e_tita_mudante": false,
+    "status": "morto"
+  },
+  {
+    "id": 7,
+    "nome": "Sasha Braus",
+    "esquadrao": 23,
+    "e_tita_mudante": false,
+    "status": "morto"
+  },
+  {
+    "id": 8,
+    "nome": "Connie Springer",
+    "esquadrao": 5,
+    "e_tita_mudante": false,
+    "status": "vivo"
+  },
+  {
+    "id": 9,
+    "nome": "Jean Kirstein",
+    "esquadrao": 5,
+    "e_tita_mudante": false,
+    "status": "vivo"
+  },
+  {
+    "id": 10,
+    "nome": "Marco Bott",
+    "esquadrao": 5,
+    "e_tita_mudante": false,
+    "status": "morto"
+  },
+  {
+    "id": 11,
+    "nome": "Historia Reiss",
+    "esquadrao": 29,
+    "e_tita_mudante": false,
+    "status": "vivo"
+  },
+  {
+    "id": 12,
+    "nome": "Ymir",
+    "esquadrao": 5,
+    "e_tita_mudante": true,
+    "status": "morto"
+  },
+  {
+    "id": 13,
+    "nome": "Reiner Braun",
+    "esquadrao": 9,
+    "e_tita_mudante": true,
+    "status": "vivo"
+  },
+  {
+    "id": 14,
+    "nome": "Bertholt Hoover",
+    "esquadrao": 9,
+    "e_tita_mudante": true,
+    "status": "morto"
+  },
+  {
+    "id": 15,
+    "nome": "Annie Leonhart",
+    "esquadrao": 9,
+    "e_tita_mudante": true,
+    "status": "vivo"
+  },
+  {
+    "id": 16,
+    "nome": "Zeke Yeager",
+    "esquadrao": 18,
+    "e_tita_mudante": true,
+    "status": "morto"
+  },
+  {
+    "id": 17,
+    "nome": "Falco Grice",
+    "esquadrao": 24,
+    "e_tita_mudante": true,
+    "status": "vivo"
+  },
+  {
+    "id": 18,
+    "nome": "Gabi Braun",
+    "esquadrao": 24,
+    "e_tita_mudante": false,
+    "status": "vivo"
+  },
+  {
+    "id": 19,
+    "nome": "Pieck Finger",
+    "esquadrao": 9,
+    "e_tita_mudante": true,
+    "status": "vivo"
+  },
+  {
+    "id": 20,
+    "nome": "Porco Galliard",
+    "esquadrao": 9,
+    "e_tita_mudante": true,
+    "status": "morto"
+  },
+  {
+    "id": 21,
+    "nome": "Colt Grice",
+    "esquadrao": 9,
+    "e_tita_mudante": true,
+    "status": "morto"
+  },
+  {
+    "id": 22,
+    "nome": "Floch Forster",
+    "esquadrao": 10,
+    "e_tita_mudante": false,
+    "status": "morto"
+  },
+  {
+    "id": 23,
+    "nome": "Moblit Berner",
+    "esquadrao": 14,
+    "e_tita_mudante": false,
+    "status": "morto"
+  },
+  {
+    "id": 24,
+    "nome": "Nanaba",
+    "esquadrao": 8,
+    "e_tita_mudante": false,
+    "status": "morto"
+  },
+  {
+    "id": 25,
+    "nome": "Keith Shadis",
+    "esquadrao": 5,
+    "e_tita_mudante": false,
+    "status": "vivo"
+  },
+  {
+    "id": 26,
+    "nome": "Dot Pixis",
+    "esquadrao": 22,
+    "e_tita_mudante": false,
+    "status": "morto"
+  },
+  {
+    "id": 27,
+    "nome": "Rico Brzenska",
+    "esquadrao": 12,
+    "e_tita_mudante": false,
+    "status": "vivo"
+  },
+  {
+    "id": 28,
+    "nome": "Hannes",
+    "esquadrao": 17,
+    "e_tita_mudante": false,
+    "status": "morto"
+  },
+  {
+    "id": 29,
+    "nome": "Grisha Yeager",
+    "esquadrao": 1,
+    "e_tita_mudante": true,
+    "status": "morto"
+  },
+  {
+    "id": 30,
+    "nome": "Kenny Ackerman",
+    "esquadrao": 11,
+    "e_tita_mudante": false,
+    "status": "morto"
+  }
+]

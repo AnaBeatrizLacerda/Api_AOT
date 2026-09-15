@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "tipo": "Titã de Ataque",
+    "altura_metros": 15,
+    "personagem_associado": 1
+  },
+  {
+    "id": 2,
+    "tipo": "Titã Colossal",
+    "altura_metros": 60,
+    "personagem_associado": 26
+  },
+  {
+    "id": 3,
+    "tipo": "Titã Blindado",
+    "altura_metros": 15,
+    "personagem_associado": 25
+  },
+  {
+    "id": 4,
+    "tipo": "Titã Fêmea",
+    "altura_metros": 14,
+    "personagem_associado": 27
+  },
+  {
+    "id": 5,
+    "tipo": "Titã Bestial",
+    "altura_metros": 17,
+    "personagem_associado": 21
+  },
+  {
+    "id": 6,
+    "tipo": "Titã Carroça",
+    "altura_metros": 4,
+    "personagem_associado": 28
+  },
+  {
+    "id": 7,
+    "tipo": "Titã Mandíbula",
+    "altura_metros": 5,
+    "personagem_associado": 29
+  },
+  {
+    "id": 8,
+    "tipo": "Titã Martelo de Guerra",
+    "altura_metros": 12,
+    "personagem_associado": null
+  },
+  {
+    "id": 9,
+    "tipo": "Titã Fundador",
+    "altura_metros": 20,
+    "personagem_associado": 1
+  },
+  {
+    "id": 10,
+    "tipo": "Titã Puro (anômalo, corredor)",
+    "altura_metros": 7,
+    "personagem_associado": null
+  },
+  {
+    "id": 11,
+    "tipo": "Titã Puro (grande, lento)",
+    "altura_metros": 12,
+    "personagem_associado": null
+  },
+  {
+    "id": 12,
+    "tipo": "Titã Puro (pequeno)",
+    "altura_metros": 3,
+    "personagem_associado": null
+  },
+  {
+    "id": 13,
+    "tipo": "Titã Puro (sorridente)",
+    "altura_metros": 8,
+    "personagem_associado": null
+  },
+  {
+    "id": 14,
+    "tipo": "Titã Puro (aberrante, salta paredes)",
+    "altura_metros": 9,
+    "personagem_associado": null
+  },
+  {
+    "id": 15,
+    "tipo": "Titã Puro (ex-soldado transformado)",
+    "altura_metros": 6,
+    "personagem_associado": null
+  },
+  {
+    "id": 16,
+    "tipo": "Titã Puro (variante magra)",
+    "altura_metros": 5,
+    "personagem_associado": null
+  },
+  {
+    "id": 17,
+    "tipo": "Titã Puro (variante robusta)",
+    "altura_metros": 10,
+    "personagem_associado": null
+  },
+  {
+    "id": 18,
+    "tipo": "Titã Puro (sem mandíbula inferior)",
+    "altura_metros": 8,
+    "personagem_associado": null
+  },
+  {
+    "id": 19,
+    "tipo": "Titã Puro (braços longos)",
+    "altura_metros": 9,
+    "personagem_associado": null
+  },
+  {
+    "id": 20,
+    "tipo": "Titã Puro (rastejante)",
+    "altura_metros": 4,
+    "personagem_associado": null
+  },
+  {
+    "id": 21,
+    "tipo": "Titã Puro (capturado para pesquisa)",
+    "altura_metros": 4,
+    "personagem_associado": null
+  },
+  {
+    "id": 22,
+    "tipo": "Titã Puro (Distrito de Trost)",
+    "altura_metros": 10,
+    "personagem_associado": null
+  },
+  {
+    "id": 23,
+    "tipo": "Titã Puro (Muro Maria)",
+    "altura_metros": 11,
+    "personagem_associado": null
+  },
+  {
+    "id": 24,
+    "tipo": "Titã Puro (Floresta de Árvores Gigantes)",
+    "altura_metros": 13,
+    "personagem_associado": null
+  },
+  {
+    "id": 25,
+    "tipo": "Titã Puro (variante feminina não-Annie)",
+    "altura_metros": 9,
+    "personagem_associado": null
+  },
+  {
+    "id": 26,
+    "tipo": "Titã Puro (deformado)",
+    "altura_metros": 6,
+    "personagem_associado": null
+  },
+  {
+    "id": 27,
+    "tipo": "Titã Colossal (instância secundária)",
+    "altura_metros": 55,
+    "personagem_associado": null
+  },
+  {
+    "id": 28,
+    "tipo": "Titã Puro (ex-Marleyano)",
+    "altura_metros": 7,
+    "personagem_associado": null
+  },
+  {
+    "id": 29,
+    "tipo": "Titã Puro (variante veloz)",
+    "altura_metros": 5,
+    "personagem_associado": null
+  },
+  {
+    "id": 30,
+    "tipo": "Titã Puro (subterrâneo, Muro Sina)",
+    "altura_metros": 8,
+    "personagem_associado": null
+  }
+]

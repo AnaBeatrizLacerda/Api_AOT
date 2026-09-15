@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "nome": "Scout Regiment (Legião de Exploração)",
+    "lider": "Erwin Smith"
+  },
+  {
+    "id": 2,
+    "nome": "Garrison (Guarnição)",
+    "lider": "Dot Pixis"
+  },
+  {
+    "id": 3,
+    "nome": "Military Police Brigade (Polícia Militar)",
+    "lider": "Nile Dawk"
+  },
+  {
+    "id": 4,
+    "nome": "Esquadrão Especial de Operações (Levi Squad)",
+    "lider": "Levi Ackerman"
+  },
+  {
+    "id": 5,
+    "nome": "104ª Turma de Treinamento",
+    "lider": "Keith Shadis"
+  },
+  {
+    "id": 6,
+    "nome": "Esquadrão de Hange Zoe",
+    "lider": "Hange Zoe"
+  },
+  {
+    "id": 7,
+    "nome": "Esquadrão de Mike Zacharius",
+    "lider": "Mike Zacharius"
+  },
+  {
+    "id": 8,
+    "nome": "Esquadrão de Nanaba",
+    "lider": "Nanaba"
+  },
+  {
+    "id": 9,
+    "nome": "Guerreiros de Marley",
+    "lider": "Theo Magath"
+  },
+  {
+    "id": 10,
+    "nome": "Esquadrão de Reconhecimento Interno (Yeagerista)",
+    "lider": "Floch Forster"
+  },
+  {
+    "id": 11,
+    "nome": "Esquadrão de Kenny Ackerman",
+    "lider": "Kenny Ackerman"
+  },
+  {
+    "id": 12,
+    "nome": "Esquadrão de Rico Brzenska",
+    "lider": "Rico Brzenska"
+  },
+  {
+    "id": 13,
+    "nome": "Esquadrão de Ian Dietrich",
+    "lider": "Ian Dietrich"
+  },
+  {
+    "id": 14,
+    "nome": "Esquadrão de Moblit Berner",
+    "lider": "Moblit Berner"
+  },
+  {
+    "id": 15,
+    "nome": "Guarda Real (Reiss Family Guard)",
+    "lider": "Kenny Ackerman"
+  },
+  {
+    "id": 16,
+    "nome": "Esquadrão de Elite da Capital Central",
+    "lider": "Djel Sannes"
+  },
+  {
+    "id": 17,
+    "nome": "Unidade de Vigilância do Muro Maria",
+    "lider": "Hannes"
+  },
+  {
+    "id": 18,
+    "nome": "Esquadrão de Reconhecimento de Zeke Yeager",
+    "lider": "Zeke Yeager"
+  },
+  {
+    "id": 19,
+    "nome": "Aliança (Eren, Mikasa, Armin e cia.)",
+    "lider": "Armin Arlert"
+  },
+  {
+    "id": 20,
+    "nome": "Esquadrão Anti-Pessoal de Titãs",
+    "lider": "Erwin Smith"
+  },
+  {
+    "id": 21,
+    "nome": "Esquadrão de Formação em Cunha",
+    "lider": "Erwin Smith"
+  },
+  {
+    "id": 22,
+    "nome": "Guarnição do Distrito de Trost",
+    "lider": "Dot Pixis"
+  },
+  {
+    "id": 23,
+    "nome": "Esquadrão de Elite de Sasha Braus",
+    "lider": "Sasha Braus"
+  },
+  {
+    "id": 24,
+    "nome": "105ª Turma de Treinamento (Marley)",
+    "lider": "Theo Magath"
+  },
+  {
+    "id": 25,
+    "nome": "Esquadrão dos Nove Titãs",
+    "lider": "Zeke Yeager"
+  },
+  {
+    "id": 26,
+    "nome": "Esquadrão de Investigação da Capital",
+    "lider": "Nile Dawk"
+  },
+  {
+    "id": 27,
+    "nome": "Frota Aérea de Onyankopon",
+    "lider": "Onyankopon"
+  },
+  {
+    "id": 28,
+    "nome": "Esquadrão de Defesa de Paradis",
+    "lider": "Armin Arlert"
+  },
+  {
+    "id": 29,
+    "nome": "Esquadrão de Resgate de Historia",
+    "lider": "Historia Reiss"
+  },
+  {
+    "id": 30,
+    "nome": "Esquadrão de Inteligência de Yelena",
+    "lider": "Yelena"
+  }
+]
